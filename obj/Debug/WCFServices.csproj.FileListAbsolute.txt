@@ -1,0 +1,12 @@
+C:\Users\sefer\Desktop\MyProject\WCFServices\bin\WCFServices.dll.config
+C:\Users\sefer\Desktop\MyProject\WCFServices\bin\WCFServices.dll
+C:\Users\sefer\Desktop\MyProject\WCFServices\bin\WCFServices.pdb
+C:\Users\sefer\Desktop\MyProject\WCFServices\bin\EntityFramework.dll
+C:\Users\sefer\Desktop\MyProject\WCFServices\bin\EntityFramework.SqlServer.dll
+C:\Users\sefer\Desktop\MyProject\WCFServices\bin\EntityFramework.xml
+C:\Users\sefer\Desktop\MyProject\WCFServices\bin\EntityFramework.SqlServer.xml
+C:\Users\sefer\Desktop\MyProject\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+C:\Users\sefer\Desktop\MyProject\WCFServices\obj\Debug\WCFServices.csproj.CopyComplete
+C:\Users\sefer\Desktop\MyProject\WCFServices\obj\Debug\WCFServices.dll
+C:\Users\sefer\Desktop\MyProject\WCFServices\obj\Debug\WCFServices.pdb
+C:\Users\sefer\Desktop\MyProject\WCFServices\obj\Debug\WCFServices.csproj.AssemblyReference.cache
