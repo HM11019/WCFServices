@@ -13,11 +13,17 @@ Each service operation uses Entity Framework to query the database and LINQ expr
 ⚙️ Core Features
 
 ✅ Entity Framework ORM — full data model generated from Northwind database
+
 ✅ LINQ Queries — strongly typed data retrieval with filtering and sorting
+
 ✅ WCF Endpoints — expose services as RESTful APIs accessible via HTTP
+
 ✅ JSON Serialization — output formatted for easy client consumption
+
 ✅ Logging (WebTrack) — every client action is logged for auditing and analytics
+
 ✅ Dependency Injection Ready — supports injection for EF contexts and services
+
 
 🧠 Data Access Layer
 
@@ -65,20 +71,6 @@ Response
   }
 ]
 
-🧩 Technologies Used
-
-Layer	Technology
-Framework	.NET Framework 4.8
-Data Access	Entity Framework 6 (Database First – Northwind)
-Language	C#
-Communication	WCF (HTTP + JSON)
-Logging	Entity-based table WebTrack
-IDE	Visual Studio 2019 / 2022
-⚙️ Configuration
-
-Database Connection
-
-Ensure the connectionStrings section in Web.config points to your Northwind
 
 🧩 Technologies Used
 
@@ -89,6 +81,19 @@ Language	C#
 Communication	WCF (HTTP + JSON)
 Logging	Entity-based table WebTrack
 IDE	Visual Studio 2019 / 2022
+
+
+🧩 Technologies Used
+
+Layer	Technology
+Framework	.NET Framework 4.8
+Data Access	Entity Framework 6 (Database First – Northwind)
+Language	C#
+Communication	WCF (HTTP + JSON)
+Logging	Entity-based table WebTrack
+IDE	Visual Studio 2019 / 2022
+
+
 ⚙️ Configuration
 
 Database Connection
@@ -126,6 +131,7 @@ Example client configuration (appsettings.json):
   "AllCustomers": "CustomerService.svc/GetCustomersByCountry?country="
 }
 
+
 🧩 Future Improvements
 
 Implement additional services for Orders, Products, and Regions
@@ -135,6 +141,7 @@ Add exception logging to the WebTrack table
 Include user authentication and role-based access
 
 Add async EF operations for improved scalability
+
 
 📜 License
 
